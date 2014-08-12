@@ -8,4 +8,9 @@ Works on Firefox, Chrome and Safari!
 
 Make sure to have music in your Dropbox to test :)
 
+Here's a Dropbox test account in case you don't have any music in yours:
+
+Email: jukeboxx.test@gmail.com
+Pass : JukeboxxTestPassword
+
 
