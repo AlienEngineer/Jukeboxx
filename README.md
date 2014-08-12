@@ -13,4 +13,5 @@ Here's a Dropbox test account in case you don't have any music in yours:
 Email: jukeboxx.test@gmail.com
 Pass : JukeboxxTestPassword
 
-
+Screenshot:
+![Preview](screenshot.png)
